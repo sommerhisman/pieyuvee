@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://udiyiizee.fdnd.nl/sitemap.xml
